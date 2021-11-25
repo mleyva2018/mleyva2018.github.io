@@ -4,25 +4,7 @@ These are my assets.
 
 Thank you for reading.
 
-### Markdown
-
-# Header 1
-
-## Header 2
-
-Go to [Link](https://manuelleyva.com)
-
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Go to [manuelleyva.com](https://manuelleyva.com)
 
 ```
 
